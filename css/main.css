@@ -1,0 +1,25 @@
+html, {
+  background-color: #4f4e4e;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Lust", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+h2, p, .footer {
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.social-icon {
+  width: 20%;
+}
+
+.email {
+  text-decoration: none;
+  color: #fff;
+}
