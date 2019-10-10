@@ -23,3 +23,7 @@ h2, p {
   transform: scale(1.2);
   transition: all 135ms ease;
 }
+
+.logo {
+  width: 50%;
+}
